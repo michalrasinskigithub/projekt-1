@@ -1,1 +1,2 @@
 Plik1 na main
+To jest plik 1
